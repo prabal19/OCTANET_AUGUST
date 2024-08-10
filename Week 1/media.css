@@ -1,0 +1,266 @@
+@media (max-width:1500px) {
+    .heading-contact{
+        margin-bottom: 80px;
+        margin-top: 90px;
+    }
+    
+
+}
+
+@media(max-width:1200px){
+    .form-origin{
+        width: 100%;
+        height: 100%;
+    }
+}
+
+@media (max-width:992px) {
+    .navbar{
+        background-color: white;
+    }
+
+    .nav-item .nav-link{
+        color: black;
+        font-size: 17px;
+        font-weight: 600;
+    }
+
+    .logo{
+        color: black;
+    }
+
+    .navbar-nav{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .navbar-nav .nav-item{
+        margin: 8px 0px;
+    }
+
+    .btn-navbar{
+        background-color: rgb(36, 193, 255);
+    }
+
+    .img-home{
+        width: 420px;
+        margin-right: 0px;
+
+    }
+
+    .home-heading{
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 74px;
+    }
+
+    .box-container2{
+        padding-left: 90px;
+        
+    }
+
+    .img-about{
+        height: 80%;
+        height: 100%;
+        position: static;
+        top: 0px;
+        right: 0px;
+
+    }
+
+    .about-us-container{
+        height: 100vh;
+    }
+
+    .about-us{
+        margin-top: 0px;
+    }
+
+    .product-category{
+        width: 100%;
+        height: auto;
+    }
+
+    .heading-product{
+        margin-top: 95px;
+        margin-bottom: 80px;
+
+    }
+    
+    .container-content{
+        width: 90%;
+        height: 350px;
+    }
+
+    .testimonial{
+        width: 100%;
+        height: auto;
+        margin-bottom: 16rem;
+
+    }
+
+    .carousel-indicator{
+        position: absolute;
+        bottom: -38px;
+    }
+    .form-origin{
+        height: auto;
+        width: 100%;
+    }
+
+    .content-contact{
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        padding: 26px 10px ;
+    }
+
+    footer
+    {
+        display: none;
+    }
+
+}
+
+@media (max-width:768px) {
+    .content-home2{
+        height: auto;
+    }
+
+    .box-container{
+        display: flex;
+    }
+
+    .img-home{
+        width: 500px;
+        margin-top: 50px;
+
+    }
+
+    .about-us{
+        margin-top: 140px;
+        height: 80vh;
+    }
+    
+    .about-us-container{
+        padding-top: 15rem;
+        margin-bottom: 120px;
+        margin-top: 50px;
+    }
+    
+    .home-heading{
+        font-size: 46px;
+        line-height: 82px;
+        text-align: center;
+    }
+
+    .box-container2{
+        padding-left: 0;
+    }
+
+    .para-home{
+        text-align: center;
+        max-width: 100%;
+    }
+
+    .box-container{
+        padding-left: 0;
+        margin-bottom: 20px;
+    }
+
+    .btn-home{
+        text-align: center;
+    }
+
+    .content-about{
+        padding: 10px 20px;
+        
+    
+    }
+
+    .img-about{
+        height: 90%;
+        margin-left: 0;
+    
+    }
+
+    .heading-product{
+        margin-top: 300px;
+        margin-bottom: 60px;
+    }
+
+    .img-card{
+        height: 280px;
+    }
+
+    .btn-scroll{
+        display: none;
+    }
+
+    .container-content{
+        width: 80%;
+        height: 350px;
+    }
+
+    .heading-testimonial{
+        font-size: 34px;
+        line-height: 60px;
+    }
+
+    .para-testimonial{
+        font-size: 14px;
+        letter-spacing: 0px;
+        max-width: 600px;
+    }
+}
+
+
+@media (max-width:576px) {
+    .img-home{
+        width: 340px;
+        margin: auto;
+        margin-top: 50px;
+    }
+
+    .home-heading{
+        font-size: 32px;
+        line-height: 52px;
+
+    }
+
+    .about-us-container{
+        padding-top: 6rem;    
+        
+    }
+    
+    .heading-product{
+        font-size: 25px;
+    }
+
+    .container-content{
+        width: 70%;
+        height: auto;
+        padding: 11px;
+    }
+
+    .heading-testimonial{
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    .img-client{
+        width: 90px;
+        height: 90px;
+    }
+
+    .client-name{
+        font-size: 18px;
+    }
+
+    .para-client{
+        font-size: 13px;
+        line-height: 21px;
+    }
+}
+
